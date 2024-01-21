@@ -1,0 +1,20 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+#clock-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+#clock{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri;
+    font-weight: bold;
+    font-size: 5rem;
+    
+}
