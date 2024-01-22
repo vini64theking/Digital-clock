@@ -19,3 +19,10 @@ body{
     white-space: nowrap;
     
 }
+@media only screen and (max-width: 600px) {
+    #clock-container{
+        box-sizing: border-box;
+        width:max-content;
+    }
+    
+}
